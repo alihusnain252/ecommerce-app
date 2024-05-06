@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>393604047299-fedentrgcp088smenrfa8k8g1de6cg45.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.393604047299-fedentrgcp088smenrfa8k8g1de6cg45</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxxrLjGwOWeZB2y8uCLnVh7nNNaTRbuZo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>393604047299</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartfood.user</string>
+	<key>PROJECT_ID</key>
+	<string>smartfood-d0007</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartfood-d0007.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:393604047299:ios:6af670cb52c6b5093c1d76</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartfood-d0007.firebaseio.com</string>
+</dict>
+</plist>

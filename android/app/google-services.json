@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393604047299",
+    "firebase_url": "https://smartfood-d0007.firebaseio.com",
+    "project_id": "smartfood-d0007",
+    "storage_bucket": "smartfood-d0007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393604047299:android:95c93f729aeb44ad3c1d76",
+        "android_client_info": {
+          "package_name": "com.smartfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393604047299-opbs9008m6mnvglmggaactl2eu9767bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tithzT1RptvAj4WbYqLhPoP70bKrUFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393604047299-opbs9008m6mnvglmggaactl2eu9767bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393604047299-fedentrgcp088smenrfa8k8g1de6cg45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartfood.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
